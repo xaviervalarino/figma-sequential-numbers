@@ -1,0 +1,15 @@
+{
+  "name": "Sequential Numbers",
+  "id": "1219771453262828382",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": ["figma", "figjam"],
+  "menu": [
+    {
+      "name": "Sequence Numbers",
+      "command": "sequence_numbers"
+    }
+  ]
+}
